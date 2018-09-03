@@ -1,2 +1,2 @@
 # Hello-World
-Training GitHub
+Training GitHub is created for me to familiarize with gitHub.
